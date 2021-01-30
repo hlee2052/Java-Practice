@@ -1,0 +1,8 @@
+Enums
+- Animal: using enum classes
+- PayrollDay/ PayrollDayMain : for Strategy Enum Type
+- EnumMap
+
+
+Note:
+- when creating enum class, constructor should have no access modifier 

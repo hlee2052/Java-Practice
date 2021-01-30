@@ -1,0 +1,15 @@
+
+Stream operations:
+
+either: intermediate or terminal
+
+## intermediate
+- can have multiple chains
+- eg) filter, map, sorted
+
+
+## terminal
+- void or return non stream result
+- eg) forEach
+
+## types of streams
