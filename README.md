@@ -1,2 +1,2 @@
 # Java-Practice
-- Exploring specifics of Java
+- Reviewing and exploring specifics of Java
