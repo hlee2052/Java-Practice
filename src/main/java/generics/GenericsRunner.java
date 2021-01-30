@@ -11,9 +11,6 @@ public class GenericsRunner {
      * @param args
      */
     public static void main(String [] args){
-
         PlayStation playStation = new PlayStation.Builder(1, "The first", 1998).build();
-
-
     }
 }
